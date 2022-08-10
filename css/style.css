@@ -975,7 +975,6 @@ body {
 .main__contacto {
   background-color: #000000;
   opacity: 0.9;
-  margin-top: 2.6rem;
   font-family:'Lobster', cursive;
   color: #fff;
 }
@@ -983,6 +982,7 @@ body {
 legend {
   font-family: 'Bebas Neue', cursive;
   text-align: center;
+  margin-top: 6.5rem;
 }
 
 #checkbox {
