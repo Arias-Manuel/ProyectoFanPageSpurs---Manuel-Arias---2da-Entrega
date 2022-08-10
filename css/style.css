@@ -363,7 +363,7 @@ body {
 
 
 /*fin del main del Index*/
-/*--------------------------------------------------------------------------------------------------------------------
+/*---------------------------------------------------------------------------------*/
 /*Inicio del main de la Bibliografia*/
 
 .main-bibliografia {
@@ -417,7 +417,7 @@ body {
       }
     .seccion-bibliografia-1 div {
       height: 200px;
-      width: 80%;
+      width: 60%;
       margin: 0 auto 20px auto;
     }
       .seccion-bibliografia-1 div img {
@@ -460,7 +460,7 @@ body {
       }
       .seccion-bibliografia-2 div{
         height: 200px;
-        width: 80%;
+        width: 60%;
         margin: 0 auto 20px auto;
       }
       .seccion-bibliografia-2 div img{
@@ -509,7 +509,7 @@ body {
       }
       .seccion-bibliografia-3 div{
         height: 200px;
-        width: 80%;
+        width: 60%;
         margin: 0 auto 20px auto;
       }
       .seccion-bibliografia-3 div img{
@@ -555,7 +555,7 @@ body {
       }
       .seccion-bibliografia-4 div{
         height: 200px;
-        width: 80%;
+        width: 60%;
         margin: 0 auto 20px auto;
       }
       .seccion-bibliografia-4 div img{
@@ -592,7 +592,7 @@ body {
     }
       .seccion-bibliografia-5 div{
         height: 200px;
-        width: 80%;
+        width: 60%;
         margin: 0 auto 5px auto;
       }
         .seccion-bibliografia-5 div img{
@@ -1437,13 +1437,13 @@ footer {
       font-size: 3.0rem;
     }
 
-/*--------------uary media (600px) de bibliografia*/
+/*--------------Quary media (600px) de bibliografia*/
 
 .seccion-bibliografia-0 {
   width: 100%;
 }
   .seccion-bibliografia-0 h2 {
-    font-size: 6.5rem;
+    font-size: 5.0rem;
   }
     .seccion-bibliografia-0 p {
       font-size: 2.9;
@@ -2281,7 +2281,7 @@ footer {
 
 .seccion-index-0 {
   width: 95%;
-  margin-top: 7.7rem;
+  margin-top: 8rem;
 }
   .seccion-index-0 h2 {
     font-size: 5rem;
@@ -2396,7 +2396,7 @@ footer {
 }
 
 .seccion-bibliografia-0 h2 {
-  font-size: 10rem;
+  font-size: 7rem;
 
 }
 .seccion-bibliografia-0 p {
